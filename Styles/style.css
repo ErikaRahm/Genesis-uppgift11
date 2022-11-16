@@ -1,0 +1,504 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  width: 1360px;
+  height: 3840px;
+  position: relative;
+  overflow: hidden;
+}
+.footer {
+  width: 1110px;
+  height: 23px;
+  position: absolute;
+  left: 125px;
+  top: 3770px;
+  overflow: hidden;
+}
+.social {
+  width: 95px;
+  height: 15px;
+  position: static;
+}
+.instagram {
+  position: absolute;
+  left: 1054px;
+  top: 4px;
+  overflow: visible;
+}
+.twitter-logo-silhouette {
+  position: absolute;
+  left: 1092px;
+  top: 4px;
+  overflow: visible;
+}
+.dribbble-logo {
+  position: absolute;
+  left: 1015px;
+  top: 4px;
+  overflow: visible;
+}
+.contact {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 854px;
+  top: calc(50% - 11.5px);
+}
+.projects-copy {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 757px;
+  top: calc(50% - 11.5px);
+}
+.logo {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.group {
+  width: 1079px;
+  height: 106px;
+  position: absolute;
+  left: 126px;
+  top: 2626px;
+  overflow: hidden;
+}
+.service {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 729px;
+  top: calc(50% - 45px);
+}
+.service2 {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 949px;
+  top: calc(50% - 45px);
+}
+.service3 {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 729px;
+  top: calc(50% - -21px);
+}
+.service4 {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 949px;
+  top: calc(50% - -21px);
+}
+.service5 {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 729px;
+  top: calc(50% - 12px);
+}
+.service6 {
+  color: #111111;
+  text-align: left;
+  font: 400 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 949px;
+  top: calc(50% - 12px);
+}
+.text {
+  color: #111111;
+  text-align: left;
+  font: 700 28px/38px "Mulish";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 635px;
+  height: 106px;
+}
+.quote {
+  width: 212px;
+  height: 34px;
+  position: absolute;
+  left: 950px;
+  top: 374px;
+  overflow: hidden;
+}
+.design-is-about-prog {
+  color: #111111;
+  text-align: left;
+  font: 400 italic 18px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 6px);
+}
+.rectangle {
+  background: #111111;
+  opacity: 0.5;
+  width: 30px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image {
+    width: 1110px;
+    height: 1960px;
+    margin-left: 125px;
+    margin-top: 575px; 
+    margin-right: 125px;   
+}
+.title {
+  width: 635px;
+  height: 251px;
+  position: absolute;
+  left: 125px;
+  top: 180px;
+  overflow: hidden;
+}
+.hello--i-m-bakhtiyar {
+  text-align: left;
+  font: 700 40px/60px "Mulish";
+  position: absolute;
+  left: 0px;
+  top: 60px;
+  width: 635px;
+  height: 191px;
+}
+.hello--i-m-bakhtiyar-span {
+  color: #111111;
+  font: 700 40px/60px "Mulish";
+}
+.hello--i-m-bakhtiyar-span2 {
+  color: #4a4ff2;
+  font: 700 40px/60px "Mulish";
+}
+.hello--i-m-bakhtiyar-span3 {
+  color: #111111;
+  font: 700 40px/60px "Mulish";
+}
+.shooting-stars {
+  color: #4a4ff2;
+  text-align: left;
+  font: 700 22px "Mulish";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 125.5px);
+  width: 173px;
+}
+.menu {
+  width: 1109px;
+  height: 23px;
+  position: absolute;
+  left: 126px;
+  top: 61px;
+  overflow: hidden;
+}
+.contact2 {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 1043px;
+  top: calc(50% - 11.5px);
+}
+.projects {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 947px;
+  top: calc(50% - 11.5px);
+}
+.logo2 {
+  position: absolute;
+  left: 0.07px;
+  top: 0.12px;
+  overflow: visible;
+}
+.awards {
+  width: 1110px;
+  height: 823px;
+  position: absolute;
+  left: 125px;
+  top: 2833px;
+  overflow: hidden;
+}
+._2018 {
+  color: #111111;
+  text-align: right;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 1071px;
+  top: calc(50% - 358.5px);
+}
+._2017 {
+  color: #111111;
+  text-align: right;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 1071px;
+  top: calc(50% - -52.5px);
+}
+._2018-copy {
+  color: #111111;
+  text-align: right;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 1071px;
+  top: calc(50% - 168.5px);
+}
+._2016 {
+  color: #111111;
+  text-align: right;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 1071px;
+  top: calc(50% - -242.5px);
+}
+.text2 {
+  width: 190px;
+  height: 110px;
+  position: absolute;
+  left: 760px;
+  top: 53px;
+  overflow: hidden;
+}
+.genesis-ui-kit {
+  color: #111111;
+  text-align: left;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 55px);
+}
+.application-that-hel {
+  color: #111111;
+  text-align: left;
+  font: 400 16px/26px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+  width: 190px;
+}
+.text-copy-2 {
+  width: 190px;
+  height: 110px;
+  position: absolute;
+  left: 760px;
+  top: 464px;
+  overflow: hidden;
+}
+.text-copy {
+  width: 190px;
+  height: 110px;
+  position: absolute;
+  left: 760px;
+  top: 243px;
+  overflow: hidden;
+}
+.genesis-template {
+  color: #111111;
+  text-align: left;
+  font: 400 16px "Mulish";
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 55px);
+}
+.text-copy-3 {
+  width: 190px;
+  height: 110px;
+  position: absolute;
+  left: 760px;
+  top: 654px;
+  overflow: hidden;
+}
+.site-of-the-day {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 475px;
+  top: calc(50% - 361.5px);
+}
+.site-of-the-day-copy {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 475px;
+  top: calc(50% - -49.5px);
+}
+.best-navigation {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 475px;
+  top: calc(50% - 171.5px);
+}
+.best-navigation-copy {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 475px;
+  top: calc(50% - -239.5px);
+}
+.awwwards {
+  color: #111111;
+  text-align: left;
+  font: 700 22px "Mulish";
+  position: absolute;
+  left: 1px;
+  top: calc(50% - 361.5px);
+}
+.cssdesignawards {
+  color: #111111;
+  text-align: left;
+  font: 700 22px "Mulish";
+  position: absolute;
+  left: 1px;
+  top: calc(50% - -49.5px);
+}
+.divider {
+  background: #d8d8d8;
+  width: 1110px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.divider-copy {
+  background: #d8d8d8;
+  width: 1110px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 411px;
+}
+.divider-copy-2 {
+  background: #d8d8d8;
+  width: 1110px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 821px;
+}
+.frame-1 {
+  width: 1110px;
+  height: 1960px;
+  position: absolute;
+  left: 125px;
+  top: 575px;
+  overflow: hidden;
+}
+.projects2 {
+  width: 1110px;
+  height: 1960px;
+  position: static;
+}
+.rectangle2 {
+  width: 357px;
+  height: 413px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle3 {
+  width: 357px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 433px;
+}
+.rectangle4 {
+  width: 357px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 928px;
+}
+.rectangle5 {
+  width: 357px;
+  height: 537px;
+  position: absolute;
+  left: 0px;
+  top: 1423px;
+}
+.rectangle6 {
+  width: 356px;
+  height: 351px;
+  position: absolute;
+  left: 377px;
+  top: 0px;
+}
+.rectangle7 {
+  width: 350px;
+  height: 413px;
+  position: absolute;
+  left: 380px;
+  top: 371px;
+}
+.rectangle8 {
+  width: 356px;
+  height: 537px;
+  position: absolute;
+  left: 377px;
+  top: 804px;
+}
+.rectangle9 {
+  width: 356px;
+  height: 599px;
+  position: absolute;
+  left: 377px;
+  top: 1361px;
+}
+.rectangle10 {
+  width: 350px;
+  height: 599px;
+  position: absolute;
+  left: 760px;
+  top: 0px;
+}
+.rectangle11 {
+  width: 357px;
+  height: 413px;
+  position: absolute;
+  left: 753px;
+  top: 619px;
+}
+.rectangle12 {
+  width: 357px;
+  height: 537px;
+  position: absolute;
+  left: 753px;
+  top: 1052px;
+}
+.rectangle13 {
+  width: 350px;
+  height: 351px;
+  position: absolute;
+  left: 760px;
+  top: 1609px;
+}

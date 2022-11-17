@@ -130,6 +130,13 @@
   width: 635px;
   height: 106px;
 }
+.pics {
+  position: absolute;
+  width: 1110px;
+  height: 1960px;
+  left: 125px;
+  top: 575px;  
+}
 .quote {
   width: 212px;
   height: 34px;
@@ -155,13 +162,6 @@
   position: absolute;
   left: 0px;
   top: 0px;
-}
-.image {
-    width: 1110px;
-    height: 1960px;
-    margin-left: 125px;
-    margin-top: 575px; 
-    margin-right: 125px;   
 }
 .title {
   width: 635px;
@@ -498,4 +498,3 @@
   left: 760px;
   top: 1609px;
 }
-

@@ -1,0 +1,214 @@
+.contact {
+  background: #ffffff;
+  width: 1360px;
+  height: 1375px;
+  overflow: hidden;
+  position:absolute;
+}
+.footer {
+  width: 1110px;
+  height: 23px;
+  position: absolute;
+  left: 125px;
+  top: 1306px;
+  overflow: hidden;
+}
+.social {
+  width: 95px;
+  height: 15px;
+  position: static;
+}
+.instagram {
+  position: absolute;
+  left: 1054px;
+  top: 4px;
+  overflow: visible;
+}
+.twitter-logo-silhouette {
+  position: absolute;
+  left: 1092px;
+  top: 4px;
+  overflow: visible;
+}
+.dribbble-logo {
+  position: absolute;
+  left: 1015px;
+  top: 4px;
+  overflow: visible;
+}
+.contact {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 854px;
+  top: calc(50% - 11.5px);
+}
+.projects-copy {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 757px;
+  top: calc(50% - 11.5px);
+}
+.logo {
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  overflow: visible;
+}
+.map {
+  width: 1110px;
+  height: 570px;
+  position: absolute;
+  left: 125px;
+  top: 626px;
+}
+.form {
+  width: 475px;
+  height: 291px;
+  position: static;
+}
+.button {
+  width: 125px;
+  height: 50px;
+  position: absolute;
+  left: 760px;
+  top: 456px;
+  overflow: hidden;
+}
+.rectangle {
+  background: #4a4ff2;
+  width: 125px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font: 700 16px "Mulish";
+  position: absolute;
+  left: 35px;
+  top: calc(50% - 11px);
+}
+.input {
+  width: 475px;
+  height: 37px;
+  position: absolute;
+  left: 760px;
+  top: 215px;
+  overflow: hidden;
+}
+.divider {
+  background: #d8d8d8;
+  border: solid #979797;
+  border-width: 1px;
+  opacity: 0.30000001192092896;
+  width: 475px;
+  height: 1px;
+  position: absolute;
+  left: 0px;
+  top: 36px;
+}
+.name {
+  color: #111111;
+  text-align: left;
+  font: 700 16px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 18.5px);
+}
+.input2 {
+  width: 475px;
+  height: 37px;
+  position: absolute;
+  left: 760px;
+  top: 298px;
+  overflow: hidden;
+}
+.email {
+  color: #111111;
+  text-align: left;
+  font: 700 16px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 18.5px);
+}
+.input3 {
+  width: 475px;
+  height: 37px;
+  position: absolute;
+  left: 760px;
+  top: 381px;
+  overflow: hidden;
+}
+.message {
+  color: #111111;
+  text-align: left;
+  font: 700 16px "Mulish";
+  opacity: 0.6000000238418579;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 18.5px);
+}
+.title {
+  width: 475px;
+  height: 174px;
+  position: static;
+}
+.full-set-of-great-fe {
+  color: #111111;
+  text-align: left;
+  font: 700 40px/55px "Mulish";
+  position: absolute;
+  left: 125px;
+  top: 194px;
+  width: 475px;
+  height: 174px;
+}
+.our-favorite-brands {
+  color: #111111;
+  text-align: left;
+  font: 400 16px/26px "Mulish";
+  opacity: 0.800000011920929;
+  position: absolute;
+  left: 125px;
+  top: 390px;
+  width: 445px;
+  height: 56px;
+}
+.menu {
+  width: 1109px;
+  height: 23px;
+  position: absolute;
+  left: 126px;
+  top: 61px;
+  overflow: hidden;
+}
+.contact2 {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 1043px;
+  top: calc(50% - 11.5px);
+}
+.projects {
+  color: #111111;
+  text-align: left;
+  font: 700 18px "Mulish";
+  position: absolute;
+  left: 947px;
+  top: calc(50% - 11.5px);
+}
+.logo2 {
+  position: absolute;
+  left: 0.07px;
+  top: 0.12px;
+  overflow: visible;
+}

@@ -1,62 +1,10 @@
-.project-details {
-  background: #ffffff;
-  width: 1360px;
+
+.body {
   height: 2068px;
-  position: relative;
-  overflow: hidden;
-}
-.footer {
-  width: 1110px;
-  height: 23px;
-  position: absolute;
-  left: 125px;
-  top: 2001px;
-  overflow: hidden;
-}
-.social {
-  width: 95px;
-  height: 15px;
-  position: static;
-}
-.instagram {
-  position: absolute;
-  left: 1054px;
-  top: 4px;
-  overflow: visible;
-}
-.twitter-logo-silhouette {
-  position: absolute;
-  left: 1092px;
-  top: 4px;
-  overflow: visible;
-}
-.dribbble-logo {
-  position: absolute;
-  left: 1015px;
-  top: 4px;
-  overflow: visible;
-}
-.contact {
-  color: #111111;
-  text-align: left;
-  font: 700 18px "Mulish";
-  position: absolute;
-  left: 854px;
-  top: calc(50% - 11.5px);
-}
-.projects-copy {
-  color: #111111;
-  text-align: left;
-  font: 700 18px "Mulish";
-  position: absolute;
-  left: 757px;
-  top: calc(50% - 11.5px);
-}
-.logo {
-  position: absolute;
-  left: 0px;
-  top: 2px;
-  overflow: visible;
+  width: 1360px;
+  left: 1468px;
+  top: 527px;
+  border-radius: 0px;  
 }
 
 .image {
@@ -328,12 +276,6 @@
   position: absolute;
   left: 947px;
   top: calc(50% - 11.5px);
-}
-.logo2 {
-  position: absolute;
-  left: 0.07px;
-  top: 0.12px;
-  overflow: visible;
 }
 
 

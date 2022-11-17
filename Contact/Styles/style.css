@@ -1,56 +1,8 @@
-.contact {
-  background: #ffffff;
+.body {
+  position: absolute;
   width: 1360px;
   height: 1375px;
-  overflow: hidden;
-  position:absolute;
-}
-.footer {
-  width: 1110px;
-  height: 23px;
-  position: absolute;
-  left: 125px;
-  top: 1306px;
-  overflow: hidden;
-}
-.social {
-  width: 95px;
-  height: 15px;
-  position: static;
-}
-.instagram {
-  position: absolute;
-  left: 1054px;
-  top: 4px;
-  overflow: visible;
-}
-.twitter-logo-silhouette {
-  position: absolute;
-  left: 1092px;
-  top: 4px;
-  overflow: visible;
-}
-.dribbble-logo {
-  position: absolute;
-  left: 1015px;
-  top: 4px;
-  overflow: visible;
-}
-.contact {
-  color: #111111;
-  text-align: left;
-  font: 700 18px "Mulish";
-  position: absolute;
-  left: 854px;
-  top: calc(50% - 11.5px);
-}
-.projects-copy {
-  color: #111111;
-  text-align: left;
-  font: 700 18px "Mulish";
-  position: absolute;
-  left: 757px;
-  top: calc(50% - 11.5px);
+  background: #FFFFFF;  
 }
 .logo {
   position: absolute;
@@ -182,14 +134,7 @@
   width: 445px;
   height: 56px;
 }
-.menu {
-  width: 1109px;
-  height: 23px;
-  position: absolute;
-  left: 126px;
-  top: 61px;
-  overflow: hidden;
-}
+
 .contact2 {
   color: #111111;
   text-align: left;
@@ -206,7 +151,7 @@
   left: 947px;
   top: calc(50% - 11.5px);
 }
-.logo2 {
+.menu {
   position: absolute;
   left: 0.07px;
   top: 0.12px;
